@@ -7,10 +7,10 @@
 
 <br />
 <h2 align="center">Current Stats</h2>
-
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=awesomemohsin&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=AwesomeMohsin&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
+
 
 
 <br />
