@@ -9,7 +9,7 @@
 <h2 align="center">Current Stats</h2>
 
 <p align="center">
-  <img width="60%" ><img src="https://github-readme-streak-stats.herokuapp.com?user=AwesomeMohsin&theme=nightfox" alt="GitHub Streak" />
+  <img width="60%" ><img src="https://github-readme-streak-stats.herokuapp.com?user=awesomemohsin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
